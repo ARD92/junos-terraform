@@ -1,0 +1,4 @@
+yangDir = "/var/tmp/srx-vsrx-examples/config-applications"
+providerDir = /var/tmp/terraform_providers"
+xpathPath = "/var/tmp/srx-vsrx-examples/xpath_test.xml"
+fileType = "both"

@@ -1,0 +1,11 @@
+<file-list>
+        <xpath name="/applications/application/protocol">
+                <group-flag name="false"></group-flag>
+        </xpath>
+        <xpath name="/applications/application/source-port">
+                <group-flag name="false"></group-flag>
+        </xpath>
+        <xpath name="/applications/application/destination-port">
+                <group-flag name="false"></group-flag>
+        </xpath>
+</file-list>
