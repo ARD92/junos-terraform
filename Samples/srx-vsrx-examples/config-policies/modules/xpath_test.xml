@@ -1,0 +1,14 @@
+<file-list>
+<xpath name ="/security/policies/policy/from-zone-name">
+    <group-flag name="false"></group-flag>
+<xpath>
+<xpath name="/security/policies/policy/to-zone-name">
+    <group-flag name="false"></group-flag>
+<xpath>
+<xpath name="/security/policies/policy/policy/match">
+    <group-flag name="false"></group-flag>
+<xpath>
+<xpath name="/security/policies/policy/policy/then">
+    <group-flag name="false"></group-flag>
+<xpath>
+</file-list>

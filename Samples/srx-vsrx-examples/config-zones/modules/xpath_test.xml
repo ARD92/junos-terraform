@@ -1,0 +1,8 @@
+<file-list>
+        <xpath name="/security/zones/security-zone/interfaces/host-inbound-traffic/protocols/name">
+                <group-flag name="false"></group-flag>
+        </xpath>
+        <xpath name="/security/zones/security-zone/interfaces/host-inbound-traffic/system-services/name">
+                <group-flag name="false"></group-flag>
+        </xpath>
+</file-list>

@@ -1,0 +1,4 @@
+yangDir = "/Users/aprabh/Desktop/junos-terraform/Samples/srx-vsrx-examples/config-zones/modules"
+providerDir = "/Users/aprabh/Desktop/junos-terraform/terraform_providers"
+xpathPath = "/Users/aprabh/Desktop/junos-terraform/Samples/srx-vsrx-examples/config-zones/modules/xpath_test.xml"
+fileType = "both"
